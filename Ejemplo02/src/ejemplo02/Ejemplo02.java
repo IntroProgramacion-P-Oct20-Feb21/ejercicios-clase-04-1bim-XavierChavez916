@@ -16,6 +16,8 @@ public class Ejemplo02 {
         // Ingreso de datos por teclado
         // uso de la clase Scanner
         Scanner entrada = new Scanner(System.in);
+        entrada.nextInt();
+        
     }
     
 }
